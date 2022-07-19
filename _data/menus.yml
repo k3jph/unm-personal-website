@@ -13,9 +13,9 @@ main:
     weight: 5
 
 footer:
-  - name: "Home"
-    url: "/"
+  - name: "School of Public Administration"
+    url: "https://spa.unm.edu/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
+  - name: "The University of New Mexico"
+    url: "https://unm.edu/"
     weight: 2
